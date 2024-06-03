@@ -43,7 +43,7 @@ Drag and drop the image in this link into ComfyUI to load the workflow or save t
 
 
 ### Noisy Latent Comp Workflow
-This example showcases the [Noisy Laten Composition](https://comfyanonymous.github.io/ComfyUI_examples/noisy_latent_composition/) workflow. The value schedule node schedules the latent composite node's x position. You can also animate the subject while the composite node is being schedules as well!
+This example showcases the [Noisy Latent Composition](https://comfyanonymous.github.io/ComfyUI_examples/noisy_latent_composition/) workflow. The value schedule node schedules the latent composite node's x position. You can also animate the subject while the composite node is being schedules as well!
 
 ![output](https://github.com/FizzleDorf/ComfyUI_FizzNodes/assets/46942135/6ffe1078-1869-4b7a-990f-902b7eafd67d)
 
